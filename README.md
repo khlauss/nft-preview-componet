@@ -25,7 +25,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/khlauss/nft-preview-componet))
-- Live Site URL: [Add live site URL here](https://khlauss-nft-preview.netlify.app/)
+- Live Site URL: (https://khlauss-nft-preview.netlify.app/)
 
 ## My process
 
